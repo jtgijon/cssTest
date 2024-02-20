@@ -90,7 +90,8 @@
 
 Declaration new font:
 #### 
-```@font-face {
+```
+@font-face {
   font-family: 'Open Sans';
   src: url('../fonts/OpenSans-Regular.ttf');
 }
